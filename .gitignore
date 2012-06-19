@@ -1,8 +1,8 @@
 #################
 ## Eclipse
 #################
-target/* #忽略target下所有文件
-.*		 # 忽略所有.开头文件
+target/* # ignore target folder
+.svn	# ignore folder start with .
 
 *.pydevproject
 .project
