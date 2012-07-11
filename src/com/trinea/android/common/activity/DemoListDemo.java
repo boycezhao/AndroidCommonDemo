@@ -1,9 +1,9 @@
-package com.trinea.common.activity;
+package com.trinea.android.common.activity;
 
 import java.util.Arrays;
 import java.util.LinkedList;
 
-import com.trinea.common.R;
+import com.trinea.android.common.R;
 
 import android.app.Activity;
 import android.content.Intent;

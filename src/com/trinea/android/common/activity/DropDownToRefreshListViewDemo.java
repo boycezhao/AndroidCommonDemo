@@ -1,4 +1,4 @@
-package com.trinea.common.activity;
+package com.trinea.android.common.activity;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
@@ -10,9 +10,9 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
-import com.trinea.common.R;
-import com.trinea.common.view.DropDownToRefreshListView;
-import com.trinea.common.view.DropDownToRefreshListView.OnRefreshListener;
+import com.trinea.android.common.R;
+import com.trinea.android.common.view.DropDownToRefreshListView;
+import com.trinea.android.common.view.DropDownToRefreshListView.OnRefreshListener;
 
 /**
  * 下拉刷新ListView的Demo

@@ -1,14 +1,14 @@
 10
 
 dir
-2
-https://trinea-android-common-demo.googlecode.com/svn/trunk/src/com/trinea/common
+3
+https://trinea-android-common-demo.googlecode.com/svn/trunk/src/com/trinea/android/common
 https://trinea-android-common-demo.googlecode.com/svn
 
 
 
-2012-06-18T03:04:35.285775Z
-2
+2012-07-11T14:35:12.768666Z
+3
 trinea1989@gmail.com
 has-props
 
@@ -25,7 +25,4 @@ has-props
 
 
 0036957c-3a92-a46f-185b-4da59575e3b1
-
-activity
-dir
 
