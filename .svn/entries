@@ -1,14 +1,14 @@
 10
 
 dir
-2
+6
 https://trinea-android-common-demo.googlecode.com/svn/trunk
 https://trinea-android-common-demo.googlecode.com/svn
 
 
 
-2012-06-18T03:04:35.285775Z
-2
+2012-07-16T03:39:16.436955Z
+6
 trinea1989@gmail.com
 
 
@@ -32,7 +32,7 @@ file
 
 
 
-2012-06-18T03:00:14.000000Z
+2012-07-14T14:54:58.000000Z
 0d4115385d7ff9bf2b914c534f7c12a4
 2012-06-18T03:04:35.285775Z
 2
@@ -103,7 +103,7 @@ file
 
 
 
-2012-06-17T09:32:24.000000Z
+2012-07-14T14:54:54.000000Z
 1833602e0ce2acb00612e5b85d3c184e
 2012-06-18T03:04:35.285775Z
 2
@@ -133,14 +133,14 @@ trinea1989@gmail.com
 
 AndroidManifest.xml
 file
-3
 
 
 
-2012-07-11T14:33:10.000000Z
-fde48409536fcc4e7303bc60b52bbcc7
-2012-07-11T14:35:12.768666Z
-3
+
+2012-07-16T03:08:38.000000Z
+1246886df02c84985433ba081bb46828
+2012-07-16T03:31:31.393878Z
+5
 trinea1989@gmail.com
 
 
@@ -170,6 +170,40 @@ dir
 
 src
 dir
+
+.gitattributes
+file
+
+
+
+
+2012-06-12T01:06:08.000000Z
+399f7a2bdcbbada16f001e033d6d04f1
+2012-07-16T03:31:31.393878Z
+5
+trinea1989@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+505
 
 res
 dir

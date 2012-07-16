@@ -1,4 +1,4 @@
-package com.trinea.common.activity;
+package com.trinea.android.common.activity;
 
 import android.app.Activity;
 import android.content.Context;
@@ -7,9 +7,9 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Toast;
 
-import com.trinea.common.R;
-import com.trinea.common.view.CompoundDrawablesTextView;
-import com.trinea.common.view.CompoundDrawablesTextView.DrawableClickListener;
+import com.trinea.android.common.R;
+import com.trinea.android.common.view.CompoundDrawablesTextView;
+import com.trinea.android.common.view.CompoundDrawablesTextView.DrawableClickListener;
 
 /**
  * 一个可以响应CompoundDrawables点击操作的TextView的Demo
